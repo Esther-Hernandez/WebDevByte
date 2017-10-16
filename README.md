@@ -1,2 +1,2 @@
-# Learning-HTML-CSS
+# Learning HTML & CSS - Tutorials
 HTML &amp; CSS Tutorials Repository
