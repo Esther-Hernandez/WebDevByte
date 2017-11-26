@@ -1,4 +1,4 @@
 div {
-    border: 1px solid blue;
+    border: solid blue;
     border-right-width: 5px;
 }
